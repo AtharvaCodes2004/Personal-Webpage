@@ -66,11 +66,11 @@ hr{
     padding-top: 30px;
     align-items: flex-start;
 }
-@media(min-width:400px) {
+/* @media(min-width:400px) {
     .top-container{
         height: 100vh;
     }
     .profile>img{
         height: 80px;
     }
-}
+} */
